@@ -1,5 +1,30 @@
 apply plugin: 'com.android.library'
 
+ext {
+  bintrayRepo = 'maven'
+  bintrayName = 'rrobbie'
+
+  publishedGroupId = 'com.nobug.android.library'
+  libraryName = 'nobug'
+  artifact = 'rrobbie'
+
+  libraryDescription = 'We have?some common parts?while?building apps.\n' +
+      'This library is for reducing the resource making those common parts, and it will enhance both productivity and stability of apps.'
+
+  siteUrl = 'https://github.com/rrobbie/nobug_'
+  gitUrl = 'https://github.com/rrobbie/nobug_.git'
+
+  libraryVersion = '0.0.1'
+
+  developerId = 'rrobbie'
+  developerName = 'JongHun Sun'
+  developerEmail = 'rrobbie1@naver.com'
+
+  licenseName = 'The Apache Software License, Version 2.0'
+  licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+  allLicenses = ["Apache-2.0"]
+}
+
 android {
   compileSdkVersion 22
   buildToolsVersion "23.0.0 rc2"
@@ -26,3 +51,6 @@ dependencies {
   compile 'com.google.code.gson:gson:2.2.4'
   compile 'com.loopj.android:android-async-http:1.4.6'
 }
+
+apply from: 'https://raw.githubusercontent.com/rrobbie/JCenter/master/installv1.gradle'
+apply from: 'https://raw.githubusercontent.com/rrobbie/JCenter/master/bintrayv1.gradle'
