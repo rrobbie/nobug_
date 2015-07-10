@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/model/Maintenance.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/model/Version.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/net/HttpService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/util/AlertUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/util/DateUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/util/DeviceInfoUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/util/DeviceUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/util/DisplayUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/util/ImageUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/util/NetworkUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/util/PreferenceUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/util/SerializableUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/util/StringUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/util/VersionUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/view/image/NullSample.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/view/image/picasso/GrayscaleTransformation.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/view/image/picasso/Notification.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/view/image/picasso/PicassoWithDiskCache.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/view/image/picasso/RoundedTransformation.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/view/image/picasso/ScrollListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/view/image/picasso/SquaredImageView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/view/view_null_sample.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/webview/Bridge.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/webview/Browser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/webview/BrowserWebViewClient.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/webview/FullScreenVideoView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/webview/IBridge.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/webview/MimeType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/webview/OnBrowseListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/java/com/nobug/android/library/webview/Protocol.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/res/drawable/progress.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/res/layout" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nobug/src/main/res/menu" charset="UTF-8" />
+  </component>
+</project>
